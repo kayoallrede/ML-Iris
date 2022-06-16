@@ -1,7 +1,7 @@
 # ML-Iris
 A small classic dataset from Fisher, 1936. One of the earliest datasets used for evaluation of classification methodologies.
 
-##What do the instances that comprise the dataset represent?
+**What do the instances that comprise the dataset represent?**
 
 1. sepal length in cm 2. sepal width in cm 3. petal length in cm 4. petal width in cm 5. class: -- Iris Setosa -- Iris Versicolour -- Iris Virginica
 
